@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class Utilities {
-
     public static void createFakeTables(RestaurantDB r1){
         // create 5 tables
         Table t1 = new Table("Table 01", "Table type Modern", 4, false);
